@@ -18,10 +18,13 @@
 **4 key properties of OOP**
 
 OOP is structured around four fundamental principles that enhance code organization and flexibility:
-    - Encapsulation (Đóng gói)
-    - Abstraction (Trìu tượng)
-    - Inheritance (Kế thừa)
-    - Polymorphism (Đa hình)
+
+<ul style="padding-left: 20px;">
+  <li>Encapsulation (Đóng gói)</li>
+  <li>Abstraction (Trừu tượng)</li>
+  <li>Inheritance (Kế thừa)</li>
+  <li>Polymorphism (Đa hình)</li>
+</ul>
 
 ## Class and Object 
 *Class*
